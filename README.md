@@ -6,7 +6,7 @@ This codebase is intended for use with the Web Applications pairing challenges.
 
 1. Clone this repo
 2. Install the dependencies
-3. Activate your the virtual env
+3. Activate your virtual env
 4. Do `playwright install` to complete Playwright set up
 5. Run the existing test to make sure everything is OK - it should pass
 
