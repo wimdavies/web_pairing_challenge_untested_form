@@ -19,3 +19,7 @@ This codebase is intended for use with the Web Applications pairing challenges.
    - What happens if you submit the form without adding a username?
    - What happens if you put a space instead of username?
 4. Plan your tests
+
+## Then...
+
+Go back to the main challenge documentation
