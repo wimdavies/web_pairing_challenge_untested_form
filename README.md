@@ -14,7 +14,7 @@ This codebase is intended for use with the Web Applications pairing challenges.
 ## Exploration
 
 1. Run the application
-2. Visit `http://127.0.0.1:5000/` in your browser
+2. Visit `http://127.0.0.1:5001/` in your browser
 3. Use the form
    - Start with the "happy path" (adding a username)
    - What happens if you submit the form without adding a username?
