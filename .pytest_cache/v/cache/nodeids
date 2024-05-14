@@ -1,4 +1,0 @@
-[
-  "tests/test_app.py::test_example[chromium]",
-  "tests/test_app.py::test_form_happy_path[chromium]"
-]
