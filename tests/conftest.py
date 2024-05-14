@@ -8,7 +8,7 @@ from app import app
 def test_web_address(xprocess):
     python_executable = sys.executable
     app_file = py.path.local(__file__).dirpath("../app.py")
-    port = "5000"
+    port = "5001"
     class Starter(ProcessStarter):
         env = {"PORT": port, "APP_ENV": "test", **os.environ}
         pattern = "Debugger PIN"
